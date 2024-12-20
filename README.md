@@ -1,6 +1,4 @@
 ## 🚀 About Me:
-<p align="center">I am a Frontend Developer specializing in building user-focused, modern, and high-performance web interfaces.</p>
-
 - 🌱 I’m currently studying on: *Turing Academy and Azerbaijan Technical University*.
 - 🔭 I’m currently learning on: *Next.js*
 - 💬 Ask me about: *React, Tailwind, JavaScript, TypeScript*
