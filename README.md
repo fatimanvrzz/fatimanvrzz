@@ -1,6 +1,6 @@
 ## 🚀 About Me:
 - 🌱 I’m currently studying on: *Turing Academy and Azerbaijan Technical University*.
-- 🔭 I’m currently learning on: *Next.js*
+- 🔭 I’m currently intern on: *Baku Solution Community Group*
 - 💬 Ask me about: *React, Tailwind, JavaScript, TypeScript*
 - 🔗 Contact me: [LinkedIn](https://www.linkedin.com/in/fatima-novruzova-724a01338/) | [Instagram](https://www.instagram.com/fatimanvrzz/?next=%2Faccounts%2Fedit%2F) | [Email](fatimaanovruzova@gmail.com) 
 
